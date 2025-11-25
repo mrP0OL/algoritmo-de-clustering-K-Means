@@ -7,26 +7,26 @@ O dataset utilizado é o Mall Customers, que contém informações demográficas
 
 A partir da análise e modelagem, é possível identificar grupos de clientes com características semelhantes, possibilitando aplicações como:
 
-Marketing direcionado
+• Marketing direcionado
 
-Personalização de ofertas
+• Personalização de ofertas
 
-Melhor compreensão do comportamento de consumidores
+• Melhor compreensão do comportamento de consumidores
 
-Apoio à tomada de decisões estratégicas
+• Apoio à tomada de decisões estratégicas
 
 🛠 Tecnologias Utilizadas
 
-Python
+• Python
 
-Pandas
+• Pandas
 
-NumPy
+• NumPy
 
-Matplotlib
+• Matplotlib
 
-Plotly
+• Plotly
 
-Scikit-Learn
+• Scikit-Learn
 
-Jupyter Notebook
+• Jupyter Notebook
